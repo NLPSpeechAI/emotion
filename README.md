@@ -8,7 +8,8 @@ Conference lists
     </tr>
     <tr>
         <td><a href="https://2021.acmmm.org/" target="_blank" >ACM Multimedia2021</a></td>
-        <td>~~April 17, 2021~~</td>
+        <td><s>April 17, 2021</s></td>
     </tr>
+   
 </table>
 
